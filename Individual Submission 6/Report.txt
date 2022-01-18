@@ -2,25 +2,25 @@ Completed coursera course using email
 someone@gmail.com
 https://www.coursera.org/learn/this_is_a_course
 
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
 
 completed youtube video:
-http://youtube....
+
+https://youtube.com/playlist?list=PLPIwNooIb9vhYroMrNpoBYiBUFzTwEZot
+
+https://youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
+
 
 completed book:
-http://book
 
-did project:
-.....
+https://books.google.com.bd/books?id=l6sDRvKvCQ0C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 
-did something else
-...
+https://books.google.com.bd/books?id=0i9uJJ78LtAC&printsec=copyright&redir_esc=y#v=onepage&q&f=false
 
-was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://books.google.com.bd/books/about/Designing_Distributed_Systems.html?id=5hJNDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false
+
+
+Read Paper: 
+
 
 Submitter:
 12345678 Name A
