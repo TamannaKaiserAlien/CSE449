@@ -19,7 +19,7 @@ https://books.google.com.bd/books?id=0i9uJJ78LtAC&printsec=copyright&redir_esc=y
 https://books.google.com.bd/books/about/Designing_Distributed_Systems.html?id=5hJNDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false
 
 
-Read Paper (For our paper): 
+Read Paper (For our paper writing): 
 
 https://link.springer.com/article/10.1023/A:1007694015589
 
