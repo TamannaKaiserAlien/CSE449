@@ -19,8 +19,19 @@ https://books.google.com.bd/books?id=0i9uJJ78LtAC&printsec=copyright&redir_esc=y
 https://books.google.com.bd/books/about/Designing_Distributed_Systems.html?id=5hJNDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false
 
 
-Read Paper: 
+Read Paper (For our paper): 
 
+https://link.springer.com/article/10.1023/A:1007694015589
+
+https://ieeexplore.ieee.org/abstract/document/6641249
+
+https://www.researchgate.net/publication/220503367_Efficient_in-memory_extensible_inverted_file
+
+https://www.researchgate.net/publication/242356041_The_Effects_of_Query-Based_Sampling_on_Automatic_Database_Selection_Algorithms
+
+http://infolab.stanford.edu/~backrub/google.html
+
+https://www.researchgate.net/publication/215826683_Conjunctive_Wildcard_Search_over_Encrypted_Data
 
 Submitter:
-12345678 Name A
+18201137 Tamanna Kaiser
