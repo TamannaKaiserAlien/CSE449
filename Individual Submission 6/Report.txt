@@ -39,5 +39,8 @@ http://infolab.stanford.edu/~backrub/google.html
 
 https://www.researchgate.net/publication/215826683_Conjunctive_Wildcard_Search_over_Encrypted_Data
 
+Open Source Git library: 
+https://github.com/TamannaKaiserAlien/Hub.git
+
 Submitter:
 18201137 Tamanna Kaiser
