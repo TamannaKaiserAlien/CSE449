@@ -41,6 +41,7 @@ https://www.researchgate.net/publication/215826683_Conjunctive_Wildcard_Search_o
 
 Open Source Git library: 
 https://github.com/TamannaKaiserAlien/Hub.git
+https://github.com/TamannaKaiserAlien/Data-Science-For-Beginners.git
 
 Submitter:
 18201137 Tamanna Kaiser
